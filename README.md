@@ -68,7 +68,7 @@ Player 1 Wins 🎉
 
 ## 👨‍💻 Author
 
-**Name:** [Your Name]
+**Name:** Chhavi Shankar Agrawal
 **Language:** C
 **Project Type:** Console Game
 **Status:** Completed ✅
